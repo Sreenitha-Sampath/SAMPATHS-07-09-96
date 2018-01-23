@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SQL_server_integration", "SQL_server_integration\SQL_server_integration.dtproj", "{759C7DDD-A142-4149-9BF6-76E1CC645CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{759C7DDD-A142-4149-9BF6-76E1CC645CE6}.Development|Default.ActiveCfg = Development
+		{759C7DDD-A142-4149-9BF6-76E1CC645CE6}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2E8DFCC-F85B-409A-BF6B-10E5D8D9F656}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SAMPATHS-01-L.AdventureWorks2016CTP3"
+  DTS:DTSID="{D65A7BFC-364D-4437-BFDA-9C730A656772}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=SAMPATHS-01-L;Initial Catalog=AdventureWorks2016CTP3;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_Variables2", "SSIS_Variables2\SSIS_Variables2.dtproj", "{62DD587C-F4C0-446A-ABFA-E3FF03D96585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DD587C-F4C0-446A-ABFA-E3FF03D96585}.Development|Default.ActiveCfg = Development
+		{62DD587C-F4C0-446A-ABFA-E3FF03D96585}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D09D288-D7A6-4807-924B-870600AFD0D7}
+	EndGlobalSection
+EndGlobal
